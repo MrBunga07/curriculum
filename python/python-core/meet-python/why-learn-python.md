@@ -79,4 +79,4 @@ else:
 ???
 
 - `"Don't give up, you're doing great! 🤗"`
-- `"That's the spirit! 🎉"`
+- `"That's the spirit! 🎉"'
